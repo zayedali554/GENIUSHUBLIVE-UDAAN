@@ -3,8 +3,8 @@
 // and BEFORE any project files that need to use Supabase.
 
 (function () {
-  const SUPABASE_URL = 'https://gknodfvnbjkifcghajsf.supabase.co';
-  const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdrbm9kZnZuYmpraWZjZ2hhanNmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE2MjA3NjgsImV4cCI6MjA2NzE5Njc2OH0.65m2vRzrKMpGrvgqaNM5fYgfx0UXLyI-W81VdK03gek';
+  const SUPABASE_URL = 'https://wvfltuxmtotdaxhdfbus.supabase.co';
+  const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind2Zmx0dXhtdG90ZGF4aGRmYnVzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTIwODA2NjMsImV4cCI6MjA2NzY1NjY2M30.ePYNBpZG-KGfqY4iS_3FI1ILTYoP3EpKYK8lt7Pmlj4';
 
   // Avoid re-creating if it already exists
   if (!window.supabaseClient && window.supabase) {
